@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "dotnet-counters": {
+      "version": "3.1.120604",
+      "commands": [
+        "dotnet-counters"
+      ]
+    },
+    "dotnet-dump": {
+      "version": "3.1.122203",
+      "commands": [
+        "dotnet-dump"
+      ]
+    },
+    "dotnet-gcdump": {
+      "version": "3.1.120604",
+      "commands": [
+        "dotnet-gcdump"
+      ]
+    },
+    "dotnet-trace": {
+      "version": "3.1.120604",
+      "commands": [
+        "dotnet-trace"
+      ]
+    },
+    "dotnet-sos": {
+      "version": "3.1.122203",
+      "commands": [
+        "dotnet-sos"
+      ]
+    }
+  }
+}

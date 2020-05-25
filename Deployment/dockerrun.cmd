@@ -1,0 +1,1 @@
+docker run -p 5060:8080 asynccomparelive:1.0

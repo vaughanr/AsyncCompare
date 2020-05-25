@@ -1,0 +1,1 @@
+docker build -t "asynccomparelive:1.0" .
